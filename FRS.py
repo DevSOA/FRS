@@ -366,7 +366,7 @@ def Do_the_job(excel_file):
         #print(get_instructions("Arturo","Roa",period,ledger,entity,dpt,product,project,ico,future,currency_type,currency,tp).splitlines())
         user="vsethi"
         password="Welcome1"
-        execute(user,password,period,ledger,entity,dpt,product,project,ico,future,currency_type,currency,tp):
+        execute(user,password,period,ledger,entity,dpt,product,project,ico,future,currency_type,currency,tp)
         break
     
             
